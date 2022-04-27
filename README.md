@@ -1,13 +1,12 @@
 # 🚩MiniProject note
 
-## 🎬[MiniProject] intellij 유용한 단축키
+## 🎬intellij 유용한 단축키
 -------------
 
 ## 기본 단축키
 ### 디렉터리, 패키지, 클래스 등 생성 목록 보기
 + MacOS: Cmd + n
 + Win/Linux: Alt + Insert
--------------
 
 ## 코드 Edit
 ### Main method 생성 및 실행
@@ -22,7 +21,6 @@
     + Win/Linux: Ctrl + Shift + F10 - 이전 실행문 재실행 (우측 상단에 실행문 목록 확인 가능)
     + MacOS: Ctrl + r
     + Win/Linux: Shift + F10
- -------------
 
  ## 리팩토링
  ### 리팩토링 Extract
@@ -54,7 +52,6 @@
 + 코드 자동 정렬하기 (Reformat Code)
   + MacOS: Cmd + Opt + l
   + Win/Linux: Ctrl + Alt + l
--------------
 
 ## 자동완성
 
