@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th ="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>알림</title>
+</head>
+<body>
+<script th:inline="javascript">
+
+    /*<![CDATA[*/
+
+    var notice = [[${notice}]];
+    alert(notice);
+
+    location.replace([[${searchUrl}]]);
+    /*]]>*/
+</script>
+</body>
+</html>
